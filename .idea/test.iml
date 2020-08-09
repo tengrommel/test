@@ -4,6 +4,9 @@
     <facet type="Python" name="Python facet">
       <configuration sdkName="Python 3.7 (base)" />
     </facet>
+    <facet type="Python" name="Python facet">
+      <configuration sdkName="Python 3.7 (base) (2)" />
+    </facet>
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
@@ -11,7 +14,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (test)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Python 3.7 (base) interpreter library" level="application" />
+    <orderEntry type="library" name="Python 3.7 (base) (2) interpreter library" level="application" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
