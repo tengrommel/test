@@ -109,3 +109,43 @@ how to understand?
 - When it has dim of size 1
     - Treat it shared by all
     - [classes, students, scores] + [students, 1]
+    
+# 排序
+
+- Sort/argsort
+- Topk
+- Top-5 Acc
+
+# 全连接层
+
+out=f(X@W+b)
+
+# Layers
+
+- input
+- hidden
+- output
+
+# Multi-Layers
+
+    keras.Sequential([layer1, layer2, layer3])
+
+
+# y  R
+
+- linear regression
+- naive classification with MSE
+- other general prediction
+- out = relu(X@W + b)
+    - logits
+
+# y 0,1
+    
+- binary classification
+- Image Generation
+
+
+函数
+
+- out = relu(X@W+b)
+- sigmoid
