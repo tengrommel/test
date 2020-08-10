@@ -94,5 +94,18 @@ Indexing
 - shape, ndim
 - reshape
 - expand_dims/squeeze
+> 增加和减少维度
 - transpose
 - broadcast_to
+    - expand
+    - without copying data
+    - tf.broadcast_to
+    
+how to understand?
+
+- When it has no axis
+    - Create new concept
+    - [classes, students, score] + [scores]
+- When it has dim of size 1
+    - Treat it shared by all
+    - [classes, students, scores] + [students, 1]
