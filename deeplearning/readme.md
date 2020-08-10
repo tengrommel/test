@@ -45,4 +45,30 @@
     - 神经网络的Tensorflow实现
 - 神经网络Tensorflow实战
 
-# 卷积神经网络
+# DATA Container
+
+- list
+- np.array
+- tf.Tensor
+
+# What's Tensor
+
+- scalar: 1.1
+- vector: [1.1], [1.1, 2.2,...]
+- matrix: [[1.1,2.2], [3.3, 4.4], [5.5, 6.6]]
+- tensor: rank>2
+
+TF is a computing lib
+
+- int float double
+- bool
+- string
+
+# outline
+
+- from numpy, list
+- zeros, ones
+- fill
+- random
+- constant
+- Application
