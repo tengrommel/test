@@ -72,3 +72,27 @@ TF is a computing lib
 - random
 - constant
 - Application
+
+# Scalar
+
+- loss = mse(out, y)
+- accuracy
+
+#　索引与切片
+
+Indexing
+    
+   - Basic indexing
+       - [idx][idx][idx]
+   - Same with Numpy
+   - [idx, idx, ...]
+   - start:end
+   - start:end:step
+   
+# 维度变换
+
+- shape, ndim
+- reshape
+- expand_dims/squeeze
+- transpose
+- broadcast_to
