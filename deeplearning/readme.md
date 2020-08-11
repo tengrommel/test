@@ -149,3 +149,13 @@ out=f(X@W+b)
 
 - out = relu(X@W+b)
 - sigmoid
+
+# 误差计算
+
+# 梯度下降
+
+- 导数
+- 偏微分
+- 梯度
+
+# Typical Loss
