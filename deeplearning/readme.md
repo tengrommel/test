@@ -169,3 +169,22 @@ out=f(X@W+b)
 recap
 
 - y = XW + b
+
+# Metrics
+
+- step 1 build a meter
+- step 2 update data
+- step 3 get average data
+
+# 自定义网络
+
+- keras.Sequential
+- keras.layers.Layer
+- keras.Model
+
+# 卷积
+
+# 卷积神经网络
+
+- Padding 控制大小
+- Stride 控制步长
