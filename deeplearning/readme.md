@@ -159,3 +159,13 @@ out=f(X@W+b)
 - 梯度
 
 # Typical Loss
+
+- Mean Squared Error
+
+- Cross Entropy Loss
+
+# 单输出感知机及其梯度
+
+recap
+
+- y = XW + b
